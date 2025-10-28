@@ -23,11 +23,6 @@
 
 ![启动](/logo.png)
 
-在线体验：  
-[go-admin react开源版入口](http://120.48.157.250:22222/)
-
-[go-admin vue2.0版入口(不再更新)](http://120.48.157.250:60000/)
-
 内置两个默认账户：  
 账户：admin 密码：123456  顶级账户    
 账户：test  密码：123456  菜单权限受限的账户
@@ -184,6 +179,4 @@ npm run build:prod
 这里只是大概讲了下基本情况，具体更多内容，还是需要大家在使用中一点点去发现。
 
 ## 感谢
-> [go-admin-team](https://github.com/go-admin-team)  
-> [flipped-aurora](https://github.com/flipped-aurora)  
-> [Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin)
+
